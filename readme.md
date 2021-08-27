@@ -1,6 +1,6 @@
-# Corsair H100i Pump
+# Corsair H100i Pump Layout
 
-This is a modified version of the H115i profile provided with [Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins/blob/master/src/Devices/Artemis.Plugins.Devices.Corsair/Layouts/Corsair/Cooler/PUMP.xml).
+This is a modified version of the H115i layout provided with [Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins/blob/master/src/Devices/Artemis.Plugins.Devices.Corsair/Layouts/Corsair/Cooler/PUMP.xml).
 
 Rather than a single LED, this includes all 16 LEDs mapped correctly.
 
@@ -23,6 +23,6 @@ Rather than a single LED, this includes all 16 LEDs mapped correctly.
 |   15   | Right top     |
 |   16   | Right centre  |
 
-The image was taken from the original H115i profile and renamed. Then the LEDs were mapped to the (approximate) correct locations:
+The image was taken from the original H115i layout and renamed. Then the LEDs were mapped to the (approximate) correct locations:
 
 ![H100i RGB Pump](led-layout.png)
