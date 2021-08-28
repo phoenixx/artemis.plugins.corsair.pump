@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Corsair QL120 Fan</Name>
+  <Description>Physical layout of Corsair's QL120 Fan</Description>
+  <Author>phoenixx</Author>
+  <Type>Fan</Type>
+  <Vendor>Corsair</Vendor>
+  <Model>QL120 Fan</Model>
+  <Width>120</Width>
+  <Height>240</Height>
+  <LedUnitWidth>20</LedUnitWidth>
+  <LedUnitHeight>20</LedUnitHeight>
+  <Leds>
+    <Led Id="Fan1">
+      <Shape>Circle</Shape>
+      <X>50</X>
+      <Y>33</Y>
+    </Led>
+    <Led Id="Fan2">
+      <Shape>Circle</Shape>
+      <X>30</X>
+      <Y>50</Y>
+    </Led>
+    <Led Id="Fan3">
+      <Shape>Circle</Shape>
+      <X>50</X>
+      <Y>70</Y>
+    </Led>
+    <Led Id="Fan4">
+      <Shape>Circle</Shape>
+      <X>70</X>
+      <Y>50</Y>
+    </Led>
+    <Led Id="Fan5">
+      <Shape>Circle</Shape>
+      <X>40</X>
+      <Y>150</Y>
+    </Led>
+    <Led Id="Fan6">
+      <Shape>Circle</Shape>
+      <X>30</X>
+      <Y>170</Y>
+    </Led>
+    <Led Id="Fan7">
+      <Shape>Circle</Shape>
+      <X>40</X>
+      <Y>190</Y>
+    </Led>
+    <Led Id="Fan8">
+      <Shape>Circle</Shape>
+      <X>60</X>
+      <Y>190</Y>
+    </Led>
+    <Led Id="Fan9">
+      <Shape>Circle</Shape>
+      <X>72</X>
+      <Y>170</Y>
+    </Led>
+    <Led Id="Fan10">
+      <Shape>Circle</Shape>
+      <X>60</X>
+      <Y>150</Y>
+    </Led>
+    <Led Id="Fan11">
+      <Shape>Circle</Shape>
+      <X>40</X>
+      <Y>0</Y>
+    </Led>
+    <Led Id="Fan12">
+      <Shape>Circle</Shape>
+      <X>60</X>
+      <Y>0</Y>
+    </Led>
+    <Led Id="Fan13">
+      <Shape>Circle</Shape>
+      <X>82</X>
+      <Y>12</Y>
+    </Led>
+    <Led Id="Fan14">
+      <Shape>Circle</Shape>
+      <X>98</X>
+      <Y>35</Y>
+    </Led>
+    <Led Id="Fan15">
+      <Shape>Circle</Shape>
+      <X>98</X>
+      <Y>65</Y>
+    </Led>
+    <Led Id="Fan16">
+      <Shape>Circle</Shape>
+      <X>82</X>
+      <Y>88</Y>
+    </Led>
+    <Led Id="Fan17">
+      <Shape>Circle</Shape>
+      <X>60</X>
+      <Y>100</Y>
+    </Led>
+    <Led Id="Fan18">
+      <Shape>Circle</Shape>
+      <X>40</X>
+      <Y>100</Y>
+    </Led>
+    <Led Id="Fan19">
+      <Shape>Circle</Shape>
+      <X>18</X>
+      <Y>88</Y>
+    </Led>
+    <Led Id="Fan20">
+      <Shape>Circle</Shape>
+      <X>2</X>
+      <Y>65</Y>
+    </Led>
+    <Led Id="Fan21">
+      <Shape>Circle</Shape>
+      <X>2</X>
+      <Y>35</Y>
+    </Led>
+    <Led Id="Fan22">
+      <Shape>Circle</Shape>
+      <X>18</X>
+      <Y>12</Y>
+    </Led>
+    <Led Id="Fan23">
+      <Shape>Circle</Shape>
+      <X>76</X>
+      <Y>125</Y>
+    </Led>
+    <Led Id="Fan24">
+      <Shape>Circle</Shape>
+      <X>50</X>
+      <Y>120</Y>
+    </Led>
+    <Led Id="Fan25">
+      <Shape>Circle</Shape>
+      <X>24</X>
+      <Y>125</Y>
+    </Led>
+    <Led Id="Fan26">
+      <Shape>Circle</Shape>
+      <X>6</X>
+      <Y>145</Y>
+    </Led>
+    <Led Id="Fan27">
+      <Shape>Circle</Shape>
+      <X>0</X>
+      <Y>170</Y>
+    </Led>
+    <Led Id="Fan28">
+      <Shape>Circle</Shape>
+      <X>5</X>
+      <Y>195</Y>
+    </Led>
+    <Led Id="Fan29">
+      <Shape>Circle</Shape>
+      <X>24</X>
+      <Y>215</Y>
+    </Led>
+    <Led Id="Fan30">
+      <Shape>Circle</Shape>
+      <X>50</X>
+      <Y>220</Y>
+    </Led>
+    <Led Id="Fan31">
+      <Shape>Circle</Shape>
+      <X>76</X>
+      <Y>215</Y>
+    </Led>
+    <Led Id="Fan32">
+      <Shape>Circle</Shape>
+      <X>94</X>
+      <Y>195</Y>
+    </Led>
+    <Led Id="Fan33">
+      <Shape>Circle</Shape>
+      <X>100</X>
+      <Y>170</Y>
+    </Led>
+    <Led Id="Fan34">
+      <Shape>Circle</Shape>
+      <X>94</X>
+      <Y>145</Y>
+    </Led>
+  </Leds>
+  <CustomData>
+    <DeviceImage>ql120.png</DeviceImage>
+  </CustomData>
+</Device>
